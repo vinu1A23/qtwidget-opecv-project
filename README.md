@@ -1,6 +1,6 @@
 Instructions to use:
 
-Download qtwidget Vinayak zip file and extract it. run the EXE file
+Download qtopencv Vinayak zip file and extract it. run the EXE file
 Press start to start the video feed
 pressing pause causes the video feed to pause
 pressing face detection causes the face detection to start running
